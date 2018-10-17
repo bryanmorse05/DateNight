@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Date Night</string>
+    <string name="title">DATE NIGHT!</string>
+    <string name="button1">It\'s Someplace New</string>
+    <string name="button2">I\'m hungry now dammit!</string>
 </resources>
